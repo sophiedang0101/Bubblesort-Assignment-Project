@@ -1,3 +1,3 @@
 # bubblesort-project
-Assigment of using bubble sort algorithm.
+A course assigment on creating and using the bubble sort algorithm.
 Practice sorting Arrays, using HashMap function, and TreeMap class.
